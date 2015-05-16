@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://183.224.41.55:88/download/app/zuiyunnan.ipa</string>
+					<string>https://183.224.41.55:88/download/app/zuiyunnan.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://183.224.41.55:88/download/app/zuiyunnan1.png</string>
+					<string>https://183.224.41.55:88/download/app/zuiyunnan1.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://183.224.41.55:88/download/app/zuiyunnan2.png</string>
+					<string>https://183.224.41.55:88/download/app/zuiyunnan2.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
